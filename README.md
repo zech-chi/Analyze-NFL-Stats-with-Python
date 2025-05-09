@@ -1,4 +1,4 @@
-# Analyze-NFL-Stats-with-Python
+# Analyze-NFL-Stats-with-Python from Codecademy
 
 ## Overview
 This case study takes you through an analysis of NFL games for 32 teams in the 2021 season. Throughout the analysis you will:
